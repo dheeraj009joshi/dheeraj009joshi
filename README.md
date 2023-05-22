@@ -1,5 +1,8 @@
+<h1 align="center" >Hi 👋🏻I'm Dheeraj Joshi </h1>
+
+<h3 align="center" A Computer Science &amp; Engineering Student</h3>
+
 # 💫 About Me:  
-<h1 align="left" >Hi 👋🏻I'm Dheeraj Joshi </h1>
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
