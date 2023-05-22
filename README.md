@@ -1,6 +1,6 @@
 <h1 align="center" >Hi 👋🏻I'm Dheeraj Joshi </h1>
 
-<h3 align="center" A Computer Science &amp; Engineering Student</h3>
+<h3 align="center"> A Computer Science &amp; Engineering Student</h3>
 
 # 💫 About Me:  
 
