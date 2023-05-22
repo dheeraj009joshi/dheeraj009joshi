@@ -1,7 +1,7 @@
 <h1 align="center" >Hi 👋🏻I'm Dheeraj Joshi </h1>
 
 <h3 align="center"> A Computer Science &amp; Engineering Student</h3>
-[![](https://visitcount.itsvg.in/api?id=dheeraj009joshi&icon=0&color=9)](https://visitcount.itsvg.in)
+
 # 💫 About Me:  
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -22,6 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj009joshi&" alt="dheeraj009joshi" /></p>
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=dheeraj009joshi&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
