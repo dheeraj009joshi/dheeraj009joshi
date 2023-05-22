@@ -1,5 +1,5 @@
 # 💫 About Me:  
-Hi 👋🏻I'm Dheeraj Joshi
+<h1 align="left" >Hi 👋🏻I'm Dheeraj Joshi </h1>
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -12,11 +12,11 @@ Hi 👋🏻I'm Dheeraj Joshi
 # 📊 GitHub Stats:
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabalmanhas&show_icons=true&locale=en&layout=compact" alt="prabalmanhas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj009joshi&show_icons=true&locale=en&layout=compact" alt="dheeraj009joshi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabalmanhas&show_icons=true&locale=en" alt="prabalmanhas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj009joshi&show_icons=true&locale=en" alt="dheeraj009joshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&" alt="prabalmanhas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj009joshi&" alt="dheeraj009joshi" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dheeraj009joshi&icon=0&color=9)](https://visitcount.itsvg.in)
