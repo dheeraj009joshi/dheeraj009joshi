@@ -4,7 +4,7 @@
 
 # 💫 About Me:  
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Reverse Enginetting <br>🌱 I’m currently learning Artificial Intelligent, Machine Learning , Automatation ,Reverse Engineering  <br><p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> <strong>All of my projects are available at</strong> <a href="https://github.com/dheeraj009joshi">GitHub</a></p> <br><p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> <strong>Ask me about</strong>  Reverse Engineering,Automation &amp; Algorithms, Internet of Things, Operating Systems</p><br><p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> <strong>How to reach me</strong> <a href="https://www.linkedin.com/in/dheeraj-joshi-311704203" rel="nofollow">LinkedIn</a></p>
 
 
 ## 🌐 Socials:
